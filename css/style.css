@@ -92,6 +92,7 @@ img {
     margin: 0;
     width: 100%;
     background-color: rgb(223, 137, 154);
+    transition: 2s;
   }
 
   #lezioni .row > h1,
@@ -105,6 +106,7 @@ img {
     margin: 0;
     width: 100%;
     background-color: rgb(226, 70, 101);
+    transition: 2s;
   }
 
   #steps .row > h1,
@@ -119,6 +121,7 @@ img {
     margin: 0;
     width: 100%;
     background-color: rgb(223, 137, 154);
+    transition: 2s;
   }
 
   #why .row > h1 {
@@ -177,6 +180,7 @@ h3 {
     margin: 0;
     width: 100%;
     background-color: #ededc5;
+    transition: 2s;
   }
 
   #lezioni .row > h1,
@@ -190,6 +194,7 @@ h3 {
     margin: 0;
     width: 100%;
     background-color: #fff;
+    transition: 2s;
   }
 
   #steps .row > h1,
@@ -204,6 +209,7 @@ h3 {
     margin: 0;
     width: 100%;
     background-color: #ededc5;
+    transition: 2s;
   }
 
   #why .row > h1 {
