@@ -141,32 +141,32 @@ img {
     border-radius: 50%;
     padding: 0;
   }
-}
 
-#why hr {
-  height: 5px;
-  background-color: crimson;
-  border: 1px solid crimson;
-  margin: 20px auto;
-}
+  #why hr {
+    height: 5px;
+    background-color: crimson;
+    border: 1px solid crimson;
+    margin: 20px auto;
+  }
 
-.first > hr {
-  width: 35%;
-}
+  .first > hr {
+    width: 35%;
+  }
 
-.second > hr {
-  width: 70%;
-}
+  .second > hr {
+    width: 70%;
+  }
 
-h3 {
-  color: black;
-  padding: 10px 0 10px 0;
-}
+  h3 {
+    color: black;
+    padding: 10px 0 10px 0;
+  }
 
-#why {
-  border-bottom: 5px solid crimson;
+  #why {
+    border-bottom: 5px solid crimson;
+  }
+  /*  */
 }
-/*  */
 
 /* Smartphone (Mobile) */
 @media screen and (min-width: 320px) and (max-width: 575px) {
